@@ -3,11 +3,13 @@ import Image from "next/image";
 function Header() {
     return (
         <div>
-            <h1>I am a Header</h1>
+            
 
             {/* Left */}
-            <div>
-                <Image src="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-text.png" layout="fill" />
+            <div className="relation hidden lg:inline-grid h-24 w-24">
+
+                <Image src="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-text.png" layout="fill"
+                objectFit="contain" />
             </div>
 
             {/* Middle */}
