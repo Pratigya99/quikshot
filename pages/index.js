@@ -9,6 +9,13 @@ export default function Home(){
             </Head>
 
             <h1>This is the QUIKSHOT </h1>
+            {/* Header */}
+
+
+            {/* Feed */}
+
+
+            {/* Model */}
         </div>
     );
 }
