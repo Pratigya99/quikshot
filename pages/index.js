@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Header from "../components/Header";
 
 export default function Home(){
     return(
@@ -8,8 +9,8 @@ export default function Home(){
                 <link rel="icon" href="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-small-logo.png" />
             </Head>
 
-            <h1>This is the QUIKSHOT </h1>
             {/* Header */}
+            <Header />
 
 
             {/* Feed */}
