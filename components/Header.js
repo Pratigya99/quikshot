@@ -28,7 +28,10 @@ function Header() {
                 </div>
         
                 {/* Middle */}
-        
+                <div>
+                    
+                    <input type="text" placeholder="Search" />
+                </div>
         
                 {/* Right */}
 
