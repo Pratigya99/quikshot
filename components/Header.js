@@ -48,6 +48,7 @@ function Header() {
                     <MenuIcon className="h-6 md:hidden cursor-pointer" />
                     <PaperAirplaneIcon className="navBtn" />
                     <PlusCircleIcon className="navBtn" />
+                    <UserGroupIcon className="navBtn" />
                 </div>
 
             </div>
