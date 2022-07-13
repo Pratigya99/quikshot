@@ -1,4 +1,12 @@
 import Image from "next/image";
+import {
+    SearchIcon,
+    PlusCircleIcon,
+    UserGroupIcon,
+    HeartIcon,
+    PaperAirplaneIcon,
+    MenuIcon,
+} from "@heroicons/react/outline";
 
 function Header() {
     return (
