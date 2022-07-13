@@ -12,6 +12,14 @@ function Header() {
                 objectFit="contain" />
             </div>
 
+            <div className="relative w-10 h-10 lg:hidden flex-shrink-0">
+                <Image
+                 src="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-medium-logo.png"
+                layout="fill"
+                objectFit="contain"
+                />
+            </div>
+
             {/* Middle */}
 
 
