@@ -29,7 +29,9 @@ function Header() {
         
                 {/* Middle */}
                 <div>
-                    
+                    <div>
+                        <SearchIcon className="h-5 w-5 text-gray-500" />
+                    </div>
                     <input type="text" placeholder="Search" />
                 </div>
         
