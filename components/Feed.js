@@ -2,13 +2,15 @@ function Feed() {
     return (
         <main>
 
-            {/* Section */}
+            <section>
                 {/* Stories */}
                 {/* Posts */}
+            </section>
             
-            {/* section */}
+            <section>
                 {/* Mini profile */}
                 {/* Suggestions */}
+            </section>
 
         </main>
     )
