@@ -1,6 +1,6 @@
 function Feed() {
     return (
-        <div>
+        <main>
 
             {/* Section */}
                 {/* Stories */}
@@ -10,7 +10,7 @@ function Feed() {
                 {/* Mini profile */}
                 {/* Suggestions */}
 
-        </div>
+        </main>
     )
 }
 
