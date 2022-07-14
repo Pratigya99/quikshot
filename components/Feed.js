@@ -1,9 +1,12 @@
+import Stories from "./Stories";
+
 function Feed() {
     return (
         <main>
 
             <section>
                 {/* Stories */}
+                <Stories />
                 {/* Posts */}
             </section>
             
