@@ -10,7 +10,7 @@ import { HeartIcon as HeartIconFilled } from "@heroicons/react/solid";
 
 function Post({ id, username, userImg, img, caption }) {
     return (
-        <div>
+        <div className="bg-white my-7 border rounded-sm">
             
         </div>
     )
