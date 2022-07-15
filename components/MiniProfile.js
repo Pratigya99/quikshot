@@ -7,12 +7,12 @@ function MiniProfile() {
                 alt="profile photo"
             />
 
-            <div>
-                <h2>Pratigya</h2>
-                <h3>Welcome to Quikshot</h3>
+            <div className="flex-1 mx-4">
+                <h2 className="font-bold">Pratigya</h2>
+                <h3 className="text-sm text-gray-400">Welcome to Quikshot</h3>
             </div>
 
-            <button>Sign Out</button>
+            <button className="text-blue-400 text-sm font-semibold">Sign Out</button>
         </div>
     );
 }
