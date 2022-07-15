@@ -4,7 +4,7 @@ import Feed from "../components/Feed";
 
 export default function Home(){
     return(
-        <div className="">
+        <div className="bg-gray-50 h-screen overflow-y-scroll scrollbar-hide">
             <Head>
                 <title>QuikShot</title>
                 <link rel="icon" href="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-small-logo.png" />
