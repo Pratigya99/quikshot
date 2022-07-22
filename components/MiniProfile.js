@@ -18,7 +18,7 @@ function MiniProfile() {
 
             <button onClick={signOut} className="text-blue-400 text-sm font-semibold">Sign Out</button>
         </div>
-    );
+    )
 }
 
 export default MiniProfile;

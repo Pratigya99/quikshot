@@ -8,7 +8,7 @@ function Story({  img, username }) {
             
             <p className="text-xs w-14 truncate text-center">{username}</p>
         </div>
-    );
+    )
 }
 
 export default Story;
