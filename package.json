@@ -8,6 +8,7 @@
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
+    "create-next-app": "^12.2.3",
     "firebase": "^9.9.0",
     "next": "latest",
     "next-auth": "^4.10.1",
