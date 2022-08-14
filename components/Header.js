@@ -30,7 +30,7 @@ function Header() {
         
                 <div onClick={() => router.push('/')} className="relative w-10  lg:hidden flex-shrink-0 cursor-pointer">
                     <Image
-                     src="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-medium-logo.png"
+                     src="https://raw.githubusercontent.com/Pratigya99/Images/main/quikshot-logo.png"
                      layout="fill"
                      objectFit="contain"
                     />
