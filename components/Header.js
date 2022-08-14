@@ -24,7 +24,7 @@ function Header() {
                 {/* Left */}
                 <div className="relative hidden lg:inline-grid w-24 cursor-pointer">
         
-                    <Image src="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-text.png" layout="fill"
+                    <Image src="https://raw.githubusercontent.com/Pratigya99/Images/main/quikshot-text.png" layout="fill"
                     objectFit="contain" />
                 </div>
         
