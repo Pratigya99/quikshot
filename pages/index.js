@@ -8,7 +8,7 @@ export default function Home(){
         <div className="bg-gray-50 h-screen overflow-y-scroll scrollbar-hide">
             <Head>
                 <title>QuikShot</title>
-                <link rel="icon" href="https://raw.githubusercontent.com/Pratigya99/Images/main/instagram-small-logo.png" />
+                <link rel="icon" href="https://raw.githubusercontent.com/Pratigya99/Images/main/quikshot-logo.png" />
             </Head>
 
             
